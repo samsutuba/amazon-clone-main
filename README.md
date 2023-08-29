@@ -2,7 +2,7 @@
 
 Created a fully responsive frontend clone of Amazon using React and Next.JS. 
 
-Deployed Link: [https://airbnb-rosy.vercel.app/](https://amazon-clone-42hz626aw-kunal838.vercel.app/)
+Deployed Link: [https://amazonclone-rosy.vercel.app/](https://amazon-clone-two-beta.vercel.app/)
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/75975428/195405288-7c334f12-4cd6-45e4-b10d-0fd0284393e6.png)
